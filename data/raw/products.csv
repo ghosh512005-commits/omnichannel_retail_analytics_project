@@ -1,0 +1,201 @@
+Product_ID,Product_Name,Category,Brand,Price,Supplier
+P0001,Majority Sport,Sports,Adidas,609,Paul PLC
+P0002,Fast Sport,Sports,Sony,4212,Crawford-Medina
+P0003,North Clothin,Clothing,Samsung,12266,"Briggs, Johnson and Cantrell"
+P0004,Entire Electronic,Electronics,Adidas,9874,Wall-Peters
+P0005,Peace Hom,Home,Nike,688,"Miller, Gibbs and Underwood"
+P0006,Still Electronic,Electronics,Apple,4011,Hernandez-Fernandez
+P0007,Site Beaut,Beauty,Nike,9395,"Gonzales, Lynch and Griffith"
+P0008,Rock Clothin,Clothing,H&M,3811,"Rowland, Robinson and Bryant"
+P0009,Vote Hom,Home,Sony,13461,"Larson, Watts and Hernandez"
+P0010,Son Electronic,Electronics,Samsung,11638,Cisneros and Sons
+P0011,Try Hom,Home,Puma,4752,Hall PLC
+P0012,Increase Clothin,Clothing,Apple,12709,Ramirez-Watts
+P0013,Least Footwea,Footwear,Adidas,1719,"Vaughan, Graham and Reyes"
+P0014,Far Hom,Home,Adidas,6081,"Russell, Smith and Rosario"
+P0015,Garden Footwea,Footwear,Sony,13423,Morris and Sons
+P0016,Just Electronic,Electronics,Zara,8985,Harris-Sanchez
+P0017,Even Electronic,Electronics,H&M,1491,"Rivera, Chavez and Evans"
+P0018,Each Beaut,Beauty,Sony,13788,Cardenas PLC
+P0019,East Sport,Sports,Puma,9659,Tran LLC
+P0020,Cold Clothin,Clothing,Adidas,950,Watson Inc
+P0021,Whose Sport,Sports,Apple,12865,Mcbride-Hall
+P0022,Guess Footwea,Footwear,Adidas,14213,"Wallace, Martin and Rocha"
+P0023,Every Clothin,Clothing,Adidas,6427,Garcia-Reed
+P0024,Fly Footwea,Footwear,Zara,10615,Payne-Pollard
+P0025,Type Footwea,Footwear,Samsung,6265,Thomas Group
+P0026,Relationship Footwea,Footwear,Apple,11180,"Villanueva, Clarke and Gray"
+P0027,Interest Footwea,Footwear,Adidas,10180,"Lynch, Collins and Fowler"
+P0028,Everyone Sport,Sports,Samsung,8951,"Riggs, Gibson and Rhodes"
+P0029,Kitchen Sport,Sports,Apple,2877,Houston-Knox
+P0030,Provide Hom,Home,H&M,4622,"Martin, Bird and Long"
+P0031,Magazine Sport,Sports,Apple,11416,Perez-Osborne
+P0032,Military Footwea,Footwear,Nike,3952,Patton and Sons
+P0033,Program Electronic,Electronics,Puma,6772,Lee-Patterson
+P0034,Identify Footwea,Footwear,Adidas,3656,Johnson PLC
+P0035,Could Beaut,Beauty,Puma,3683,Williams PLC
+P0036,Sell Sport,Sports,Zara,6682,"Powell, Villarreal and Parker"
+P0037,Read Sport,Sports,Zara,2540,Patrick-Dawson
+P0038,Appear Footwea,Footwear,Samsung,4240,Huerta Inc
+P0039,Member Sport,Sports,Sony,12439,"Davis, Braun and Lozano"
+P0040,Good Beaut,Beauty,H&M,14909,Hughes-Ford
+P0041,Any Beaut,Beauty,H&M,6130,Thomas and Sons
+P0042,Sure Clothin,Clothing,Samsung,8548,Cunningham LLC
+P0043,Grow Hom,Home,Adidas,12582,Wilson-Palmer
+P0044,Those Electronic,Electronics,Adidas,2704,"Green, Collier and Hester"
+P0045,Administration Sport,Sports,Samsung,13177,Wilson and Sons
+P0046,Happy Sport,Sports,H&M,9971,Singleton-Yates
+P0047,Deep Electronic,Electronics,H&M,6452,"Walker, Peterson and Smith"
+P0048,Near Beaut,Beauty,Zara,8869,"Hahn, Patrick and Fischer"
+P0049,Guess Footwea,Footwear,Nike,11345,Bates Inc
+P0050,Particularly Sport,Sports,Adidas,11369,"Brown, Harris and Lopez"
+P0051,Method Beaut,Beauty,Sony,12792,Ray-Williamson
+P0052,Series Sport,Sports,Puma,2027,"Wells, Campbell and Morgan"
+P0053,Mouth Footwea,Footwear,H&M,2791,Jimenez LLC
+P0054,Three Hom,Home,Nike,12030,Todd-Wagner
+P0055,Score Sport,Sports,Sony,8401,Wilson PLC
+P0056,Foot Clothin,Clothing,Adidas,14462,Smith-Martinez
+P0057,Task Sport,Sports,Sony,13989,Diaz-Murray
+P0058,Nearly Sport,Sports,Apple,2704,Johnston-Holden
+P0059,Simple Footwea,Footwear,Samsung,9037,"Gonzalez, Bates and Ross"
+P0060,Project Beaut,Beauty,Nike,10013,Walters Inc
+P0061,Ok Footwea,Footwear,Zara,519,"Sanchez, Morrison and Henry"
+P0062,Meet Electronic,Electronics,Puma,14596,Miller LLC
+P0063,Learn Footwea,Footwear,Apple,1149,Hall Group
+P0064,Carry Clothin,Clothing,Adidas,1603,Nguyen LLC
+P0065,Almost Sport,Sports,Zara,13569,Cisneros LLC
+P0066,Arm Electronic,Electronics,Samsung,2303,"Lopez, Compton and Turner"
+P0067,Involve Sport,Sports,Zara,9207,Hudson Inc
+P0068,Purpose Clothin,Clothing,Sony,8845,"Cruz, Brown and Johnson"
+P0069,Glass Beaut,Beauty,H&M,3670,Burgess-Miranda
+P0070,Service Beaut,Beauty,Apple,11880,Fletcher-Mann
+P0071,Certain Footwea,Footwear,H&M,11204,Cooper-Ramos
+P0072,Institution Sport,Sports,Puma,7377,Pearson-Craig
+P0073,Charge Beaut,Beauty,Zara,2182,Davidson LLC
+P0074,Claim Clothin,Clothing,Apple,1249,Arnold-Davis
+P0075,Official Footwea,Footwear,Nike,9838,"Ross, Lane and Roth"
+P0076,Onto Beaut,Beauty,Apple,9841,"Rodriguez, Richardson and Baker"
+P0077,Wait Clothin,Clothing,Nike,1363,"Miller, Gordon and Thompson"
+P0078,Center Sport,Sports,Nike,3950,"Herrera, Mosley and Castillo"
+P0079,Look Electronic,Electronics,Nike,14284,Austin-Lopez
+P0080,Must Footwea,Footwear,Adidas,8623,Turner-Oneill
+P0081,None Clothin,Clothing,Sony,11160,Williams Group
+P0082,Represent Hom,Home,Apple,9034,Arias-Cherry
+P0083,Box Clothin,Clothing,Zara,4181,Mooney-Hartman
+P0084,Girl Hom,Home,H&M,3319,Parker-Cohen
+P0085,Friend Electronic,Electronics,Adidas,10996,Barton PLC
+P0086,Sister Hom,Home,Puma,7139,Brooks-Morgan
+P0087,Great Hom,Home,Zara,14353,Perez-Caldwell
+P0088,Score Sport,Sports,Nike,11232,"Wise, Taylor and Callahan"
+P0089,Alone Sport,Sports,Adidas,1193,Greene Group
+P0090,Choice Hom,Home,Puma,13316,"Beltran, Bailey and Young"
+P0091,Campaign Electronic,Electronics,Apple,3339,"Joyce, Santos and Smith"
+P0092,Again Clothin,Clothing,Zara,2496,"Stephens, Murphy and Taylor"
+P0093,Option Hom,Home,Samsung,4763,"Robinson, Smith and Barr"
+P0094,Show Hom,Home,Apple,14527,Durham Ltd
+P0095,Scene Electronic,Electronics,Zara,13438,Munoz Group
+P0096,Owner Beaut,Beauty,Adidas,1028,Cross PLC
+P0097,Give Sport,Sports,Nike,1728,Henderson and Sons
+P0098,Take Clothin,Clothing,Samsung,6858,Rivera-Noble
+P0099,Traditional Hom,Home,Zara,3702,"Soto, Robertson and Newman"
+P0100,Fall Hom,Home,Nike,2897,Melton PLC
+P0101,Maintain Hom,Home,Nike,6596,"Walker, Leonard and Murphy"
+P0102,Author Footwea,Footwear,Zara,4873,Steele-Dominguez
+P0103,Chance Hom,Home,Zara,2736,Christian Inc
+P0104,Cause Clothin,Clothing,Sony,3766,"Morris, Johnson and Farrell"
+P0105,Position Electronic,Electronics,Nike,12454,Schroeder Ltd
+P0106,Evening Footwea,Footwear,Nike,1021,Barrera-Davis
+P0107,Interview Beaut,Beauty,Zara,8438,"Benson, Jimenez and Chang"
+P0108,Loss Beaut,Beauty,Samsung,1131,"Bell, Christian and Jarvis"
+P0109,Join Beaut,Beauty,Adidas,14148,Holt-Miller
+P0110,As Clothin,Clothing,Adidas,9949,Anderson-Mitchell
+P0111,Together Electronic,Electronics,Apple,6815,"Adams, Walton and Huff"
+P0112,Of Electronic,Electronics,Apple,9685,"Alvarado, Peterson and Carpenter"
+P0113,Price Beaut,Beauty,Nike,10347,Carter-Nicholson
+P0114,Tough Electronic,Electronics,H&M,10970,"Gomez, Preston and Williams"
+P0115,Back Beaut,Beauty,Puma,4472,Fitzgerald-Davis
+P0116,Coach Clothin,Clothing,Puma,4110,"Rojas, Mason and Martinez"
+P0117,Central Footwea,Footwear,H&M,2344,Lawson-Rivera
+P0118,Suggest Sport,Sports,Sony,7691,"Hooper, Cole and Tucker"
+P0119,Including Footwea,Footwear,Adidas,352,Long Inc
+P0120,Visit Hom,Home,Adidas,1400,"White, Dillon and Romero"
+P0121,Brother Beaut,Beauty,Apple,8488,Burgess-Humphrey
+P0122,Civil Footwea,Footwear,Samsung,5918,Jones Group
+P0123,Line Electronic,Electronics,Apple,6254,"Pittman, Newman and Knox"
+P0124,Drop Footwea,Footwear,Samsung,7379,Clarke PLC
+P0125,Avoid Beaut,Beauty,Sony,10221,Underwood-Mays
+P0126,Religious Sport,Sports,Nike,11142,"Harris, Grant and Blair"
+P0127,Above Beaut,Beauty,Sony,11068,"Adams, Obrien and Garcia"
+P0128,Watch Electronic,Electronics,Samsung,4533,"Cook, Butler and Jefferson"
+P0129,Agency Electronic,Electronics,Adidas,12363,"Edwards, Bailey and Martin"
+P0130,Build Beaut,Beauty,Samsung,4662,Berry and Sons
+P0131,Involve Footwea,Footwear,Apple,11957,Cannon PLC
+P0132,Lose Footwea,Footwear,Apple,11463,"Norman, Yates and Clark"
+P0133,Fight Sport,Sports,Sony,8480,Bender-Hunter
+P0134,Kid Hom,Home,Sony,14062,Buchanan-Beck
+P0135,Size Electronic,Electronics,Adidas,10592,"Johnson, Ross and Barrera"
+P0136,Skill Hom,Home,Sony,922,"Ramirez, Williams and Lee"
+P0137,Thousand Electronic,Electronics,Puma,12834,"Walters, Payne and Smith"
+P0138,In Clothin,Clothing,Sony,2847,Bush-Lambert
+P0139,Record Sport,Sports,Zara,9238,"Johnson, Gonzalez and Kemp"
+P0140,Bit Sport,Sports,H&M,9389,"Johnson, Cantu and Robertson"
+P0141,Today Electronic,Electronics,Adidas,1432,Peterson-Lopez
+P0142,Take Sport,Sports,Samsung,9138,Marshall-Marquez
+P0143,Same Electronic,Electronics,Puma,9743,"Jones, Miller and Cantrell"
+P0144,Move Beaut,Beauty,Samsung,7241,"Garcia, Baker and Garcia"
+P0145,Stuff Clothin,Clothing,Nike,5250,"Miller, Andrews and Wright"
+P0146,Employee Footwea,Footwear,Nike,14927,James and Sons
+P0147,Wall Footwea,Footwear,Apple,11374,"Estes, Gonzalez and Park"
+P0148,Front Clothin,Clothing,Adidas,5994,Byrd-Morton
+P0149,Society Beaut,Beauty,H&M,10368,Jackson-Cowan
+P0150,Believe Sport,Sports,Samsung,4078,Smith-Richmond
+P0151,Out Clothin,Clothing,Samsung,14641,"Miller, Collins and Lewis"
+P0152,Word Hom,Home,Nike,3138,Wheeler LLC
+P0153,Campaign Sport,Sports,Puma,13018,Davidson and Sons
+P0154,Strong Hom,Home,Apple,4571,"Good, Mcdonald and Griffin"
+P0155,Heavy Clothin,Clothing,Adidas,6467,Holden-Quinn
+P0156,Appear Electronic,Electronics,Zara,3844,"Strickland, Kelly and Lewis"
+P0157,These Clothin,Clothing,Zara,5928,"Chambers, Lynch and Browning"
+P0158,Soon Footwea,Footwear,Apple,3852,"Kemp, Johnson and Dunn"
+P0159,Including Electronic,Electronics,Apple,6728,Taylor PLC
+P0160,Give Footwea,Footwear,Sony,14361,Maxwell and Sons
+P0161,Perform Electronic,Electronics,Sony,5953,"Mclean, Smith and Whitehead"
+P0162,Answer Sport,Sports,H&M,11333,Randall-Livingston
+P0163,Everything Beaut,Beauty,Puma,652,"Cherry, Stark and Riley"
+P0164,Tell Electronic,Electronics,Sony,3125,"Allen, Smith and Brewer"
+P0165,Mean Beaut,Beauty,Sony,826,"Reid, Murphy and Kelly"
+P0166,Else Electronic,Electronics,H&M,5863,Kerr and Sons
+P0167,Large Sport,Sports,Puma,7349,Scott-Jones
+P0168,Deal Beaut,Beauty,Adidas,6511,"Leblanc, Kim and Oconnor"
+P0169,Past Beaut,Beauty,Apple,4373,Ray PLC
+P0170,Someone Electronic,Electronics,H&M,227,"Park, Sweeney and Mason"
+P0171,Former Beaut,Beauty,Apple,6167,"Haley, Brown and Allen"
+P0172,Me Hom,Home,Adidas,11082,Conner and Sons
+P0173,Plan Footwea,Footwear,Puma,11068,"Medina, Brown and Cervantes"
+P0174,Little Electronic,Electronics,Sony,8508,Johnson and Sons
+P0175,Center Footwea,Footwear,H&M,5544,"Blake, Rodriguez and Crawford"
+P0176,Clearly Hom,Home,Sony,9283,Dunn-Callahan
+P0177,Stand Clothin,Clothing,Apple,7088,Hoffman and Sons
+P0178,Dog Sport,Sports,H&M,11297,"Pham, Thompson and Dixon"
+P0179,Whatever Sport,Sports,Samsung,10284,"Hammond, Fitzpatrick and Wagner"
+P0180,Worker Beaut,Beauty,Sony,6853,Monroe Group
+P0181,Area Beaut,Beauty,Nike,5178,Anderson Group
+P0182,Style Footwea,Footwear,Apple,7243,Winters-Reid
+P0183,Fill Beaut,Beauty,Puma,7818,"Foley, Henry and Carr"
+P0184,Support Hom,Home,Zara,11269,"Crawford, Rich and Ballard"
+P0185,Check Clothin,Clothing,Zara,13204,Dickson Group
+P0186,Leg Sport,Sports,Samsung,10994,Cobb LLC
+P0187,Green Electronic,Electronics,Sony,8645,Luna-Maldonado
+P0188,Free Sport,Sports,Puma,1730,Webb Group
+P0189,Wrong Clothin,Clothing,Sony,3880,"Orozco, Farrell and Martinez"
+P0190,Behind Clothin,Clothing,Samsung,600,Scott PLC
+P0191,But Electronic,Electronics,Apple,7984,"Smith, Hughes and Gonzalez"
+P0192,Suddenly Beaut,Beauty,Adidas,7661,Moss-Ware
+P0193,Respond Hom,Home,Apple,11969,"Jones, Harris and Boyd"
+P0194,American Sport,Sports,H&M,8299,Harris-Smith
+P0195,More Hom,Home,Apple,2617,"Baker, Johnston and Chang"
+P0196,Trial Sport,Sports,Nike,14825,Hunter Group
+P0197,Movement Electronic,Electronics,H&M,3785,Welch LLC
+P0198,Data Clothin,Clothing,Zara,1022,Taylor LLC
+P0199,Or Beaut,Beauty,Apple,14099,Kim-Fields
+P0200,Eye Electronic,Electronics,Zara,2384,Rojas-Grant
